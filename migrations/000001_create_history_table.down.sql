@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS history;
+
+DROP EXTENSION IF EXISTS timescaledb;
